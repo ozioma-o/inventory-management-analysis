@@ -1,5 +1,5 @@
 
-# 📦 Inventory Management Analysis — AdventureWorks
+# 📦 Inventory Management Analytics
 
 ## Project Overview
 
@@ -137,3 +137,4 @@ High selling products had dangerously low safety stock while low selling product
 
 ## Ozioma F. Okoyenta
 
+*Part of my Data Analytics Portfolio → [View All Projects](https://github.com/ozioma-o)*
