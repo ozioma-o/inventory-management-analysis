@@ -27,7 +27,6 @@ The objective was to understand what was happening, diagnose why it was happenin
 |------|---------|
 | SQL Server Management Studio (SSMS) | Data exploration and analysis |
 | AdventureWorks2019 Database | Source data |
-| Microsoft Excel | Summarising and visualising findings |
 
 ---
 
@@ -118,12 +117,12 @@ High selling products had dangerously low safety stock while low selling product
 
 | Priority | Action |
 |----------|--------|
-| 🔴 Immediate | Replenish stock for Bikes, Helmets and Jerseys which face the highest stock-out risk |
-| 🔴 Immediate | Investigate products with active sales but critically low inventory |
-| 🟡 Short term | Recalibrate safety stock levels and reorder points for all products based on actual average monthly sales |
-| 🟡 Short term | Review and write off or clear products that have exceeded their sell end date |
-| 🟢 Medium term | Reduce order quantities for the most overstocked subcategory to free up capital and warehouse space |
-| 🟢 Medium term | Establish a regular review process to keep stock levels aligned with evolving sales patterns |
+|  Immediate | Replenish stock for Bikes, Helmets and Jerseys which face the highest stock-out risk |
+|  Immediate | Investigate products with active sales but critically low inventory |
+|  Short term | Recalibrate safety stock levels and reorder points for all products based on actual average monthly sales |
+|  Short term | Review and write off or clear products that have exceeded their sell end date |
+|  Medium term | Reduce order quantities for the most overstocked subcategory to free up capital and warehouse space |
+|  Medium term | Establish a regular review process to keep stock levels aligned with evolving sales patterns |
 
 ---
 
