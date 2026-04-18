@@ -9,6 +9,12 @@ The analysis uses the **AdventureWorks2019** database and was conducted entirely
 
 ---
 
+ ## Data Integrity & Logic Verification
+- Hallucination & Error Detection: Identified and isolated "non-salable" items (FinishedGoodsFlag = 0) and expired products, ensuring the final analysis was based on honest, relevant data.
+- Heuristic Evaluation: Developed a custom logic-based scoring system (Too Low/Too High thresholds) to evaluate model alignment against real-world sales velocity.
+- Contextual Reasoning: Recognized that best-practice thresholds (1-3 months) are subjective; flagged the need for operational human-in-the-loop verification before final decision-making.
+---
+
 ## Business Context
 
 The business was experiencing three key problems:
